@@ -1,8 +1,9 @@
+import { Button } from 'antd-mobile'
 
 export default function Login() {
     return (
         <div>
-            登录页面
+            <Button color="primary">登录</Button>
         </div>
     )
 }
